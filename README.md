@@ -4,15 +4,9 @@ Implementación del **Juego de la Vida de Conway** utilizando **Zig** y **Raylib
 
 ## Demostración
 
-### GIF
-
-
-```md
-<img width="1366" height="720" alt="zig build run" src="https://github.com/user-attachments/assets/6f180fcb-8bb6-4c6f-ac13-01d1e00362f3" />
-
-
-
-```
+<p align="center">
+  <img src="docs/game_of_life.gif" width="700">
+</p>
 
 
 ## Requisitos
