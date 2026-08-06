@@ -5,7 +5,7 @@ Implementación del **Juego de la Vida de Conway** utilizando **Zig** y **Raylib
 ## Demostración
 
 <p align="center">
-  <img src="docs/game_of_life.gif" width="700">
+  <img src="docs/zig build run.gif" width="700">
 </p>
 
 
@@ -19,7 +19,7 @@ Implementación del **Juego de la Vida de Conway** utilizando **Zig** y **Raylib
 Clonar el repositorio:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone git@github.com:JosekingUVG/conways_game_of_life_lab2.git
 cd conways_game_of_life_lab2
 ```
 
