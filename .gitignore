@@ -1,0 +1,14 @@
+# Carpeta de compilación
+build/
+
+# Caché de Zig
+.zig-cache/
+zig-pkg
+
+# Binarios 
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
